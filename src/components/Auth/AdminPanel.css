@@ -1,0 +1,32 @@
+
+.admin-panel-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 20px;
+}
+
+.admin-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.username {
+    margin-right: 10px;
+}
+
+.admin-icon {
+    width: 30px;
+    /* Ajustez la taille de l'icône selon vos besoins */
+}
+
+.logout-button {
+    margin-left: 20px;
+}
+
+.admin-links {
+    margin-top: 20px;
+}
+
