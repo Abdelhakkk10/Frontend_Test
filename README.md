@@ -7,8 +7,8 @@ Bienvenue dans le projet MonProjetTest ! Ce projet est divisé en deux parties :
 ### Configuration
 
 1. Assurez-vous d'avoir Python installé sur votre machine.
-2. Clonez le repository depuis GitHub : `git clone https://github.com/votre-utilisateur/MonProjetTest.git`
-3. Accédez au répertoire backend : `cd MonProjetTest/backend`
+2. Clonez le repository depuis GitHub : `git clone https://github.com/Abdelhakkk10/Backend_Test.git`
+3. Accédez au répertoire backend : `cd Backend_Test`
 4. Installez les dépendances : `pip install -r requirements.txt`
 
 ### Base de données
@@ -31,8 +31,9 @@ Bienvenue dans le projet MonProjetTest ! Ce projet est divisé en deux parties :
 ### Configuration
 
 1. Assurez-vous d'avoir Node.js installé sur votre machine.
-2. Accédez au répertoire frontend : `cd MonProjetTest/frontend`
-3. Installez les dépendances : `npm install`
+2. Clonez le repository depuis GitHub : `git clone https://github.com/Abdelhakkk10/Frontend_Test.git`
+3. Accédez au répertoire frontend : `cd Frontend_Test`
+4. Installez les dépendances : `npm install`
 
 ### Exécution
 
